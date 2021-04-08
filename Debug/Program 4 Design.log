@@ -1,0 +1,20 @@
+﻿  Buy.cpp
+  Coin.cpp
+  CollectibleItem.cpp
+  ComicBook.cpp
+  Comparable.cpp
+  ComparableFactory.cpp
+  Customer.cpp
+C:\Users\Brent\source\repos\CSS 343 Data Structures, Algorithm Analysis, Discrete Math 2\Program 4 - Collectible Item Store\Customer.cpp(67,20): warning C4018: '<': signed/unsigned mismatch
+  CustomerTransactions.cpp
+  DisplayInventory.cpp
+  History.cpp
+  main.cpp
+  SearchTree.cpp
+  Sell.cpp
+  SportsCard.cpp
+  Store.cpp
+  Transaction.cpp
+  TransactionFactory.cpp
+  Generating Code...
+  Program 4 Design.vcxproj -> C:\Users\Brent\source\repos\CSS 343 Data Structures, Algorithm Analysis, Discrete Math 2\Program 4 - Collectible Item Store\Debug\Program 4 Design.exe

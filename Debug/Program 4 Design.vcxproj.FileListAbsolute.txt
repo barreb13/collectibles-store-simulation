@@ -1,0 +1,2 @@
+C:\Users\Brent\source\repos\CSS 343 Data Structures, Algorithm Analysis, Discrete Math 2\Program 4 - Collectible Item Store\Debug\Program 4 Design.exe
+C:\Users\Brent\source\repos\CSS 343 Data Structures, Algorithm Analysis, Discrete Math 2\Program 4 - Collectible Item Store\Debug\Program 4 Design.pdb
